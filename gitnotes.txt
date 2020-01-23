@@ -1,0 +1,19 @@
+Git Hub Account
+Git Bash
+Source Tree
+
+
+Git Hub
+
+Local Repository = File on the PC
+File Status > Unstaged Files  > New files created > Plus sign or Stage All (STAGED)
+
+Textbox = brief description of staged filed > Commit
+
+Remote repository (github)
+
+Pull updated files prior pushing
+
+origin/ - github
+
+no origin/ - local repository
