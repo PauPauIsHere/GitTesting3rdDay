@@ -20,5 +20,3 @@ no origin/ - local repository
 
 
 Push by the end of the Day
-
--Line Added
